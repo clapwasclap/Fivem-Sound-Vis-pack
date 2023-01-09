@@ -1,2 +1,2 @@
 # Fivem-Sound-Vis-pack
-Warning It may make ur fps a LITTLE lower
+make a folder download all the files in that folder drag the files in to ur fivem data citizen folder
